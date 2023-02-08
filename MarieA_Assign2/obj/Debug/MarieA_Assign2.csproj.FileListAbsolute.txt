@@ -1,0 +1,11 @@
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\bin\Debug\MarieA_Assign2.exe.config
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\bin\Debug\MarieA_Assign2.exe
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\bin\Debug\MarieA_Assign2.pdb
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\obj\Debug\MarieA_Assign2.csproj.AssemblyReference.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\obj\Debug\MarieA_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\obj\Debug\MarieA_Assign2.GroceryForm.resources
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\obj\Debug\MarieA_Assign2.Properties.Resources.resources
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\obj\Debug\MarieA_Assign2.csproj.GenerateResource.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\obj\Debug\MarieA_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\obj\Debug\MarieA_Assign2.exe
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\MarieA_Assign2\MarieA_Assign2\MarieA_Assign2\obj\Debug\MarieA_Assign2.pdb
